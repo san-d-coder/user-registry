@@ -1,4 +1,4 @@
-package com.sandcoder.testing_demo.domain;
+package com.sandcoder.testing_demo.beans.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

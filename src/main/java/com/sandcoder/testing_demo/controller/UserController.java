@@ -1,7 +1,7 @@
 package com.sandcoder.testing_demo.controller;
 
-import com.sandcoder.testing_demo.domain.Error;
-import com.sandcoder.testing_demo.domain.User;
+import com.sandcoder.testing_demo.beans.domain.Error;
+import com.sandcoder.testing_demo.beans.domain.User;
 import com.sandcoder.testing_demo.service.UserService;
 import com.sandcoder.testing_demo.util.AppUtils;
 import lombok.extern.slf4j.Slf4j;

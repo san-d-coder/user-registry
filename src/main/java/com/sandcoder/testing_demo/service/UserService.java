@@ -1,6 +1,6 @@
 package com.sandcoder.testing_demo.service;
 
-import com.sandcoder.testing_demo.domain.User;
+import com.sandcoder.testing_demo.beans.domain.User;
 import com.sandcoder.testing_demo.entity.UserEntity;
 import com.sandcoder.testing_demo.mapper.UserMapper;
 import com.sandcoder.testing_demo.repository.UserRepository;

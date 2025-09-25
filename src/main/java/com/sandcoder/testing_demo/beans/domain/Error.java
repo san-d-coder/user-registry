@@ -1,4 +1,4 @@
-package com.sandcoder.testing_demo.domain;
+package com.sandcoder.testing_demo.beans.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

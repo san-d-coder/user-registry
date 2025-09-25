@@ -1,6 +1,6 @@
 package com.sandcoder.testing_demo.mapper;
 
-import com.sandcoder.testing_demo.domain.User;
+import com.sandcoder.testing_demo.beans.domain.User;
 import com.sandcoder.testing_demo.entity.UserEntity;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
