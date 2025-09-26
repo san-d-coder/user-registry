@@ -1,11 +1,11 @@
-package com.sandcoder.testing_demo.controller;
+package com.sandcoder.rest_api.controller;
 
 
-import com.sandcoder.testing_demo.beans.domain.Error;
-import com.sandcoder.testing_demo.beans.external.PostRequest;
-import com.sandcoder.testing_demo.beans.external.PostResponse;
-import com.sandcoder.testing_demo.service.PostService;
-import com.sandcoder.testing_demo.util.AppUtils;
+import com.sandcoder.rest_api.beans.domain.Error;
+import com.sandcoder.rest_api.beans.external.PostRequest;
+import com.sandcoder.rest_api.beans.external.PostResponse;
+import com.sandcoder.rest_api.service.PostService;
+import com.sandcoder.rest_api.util.AppUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,9 +1,9 @@
-package com.sandcoder.testing_demo.service;
+package com.sandcoder.rest_api.service;
 
-import com.sandcoder.testing_demo.beans.domain.User;
-import com.sandcoder.testing_demo.entity.UserEntity;
-import com.sandcoder.testing_demo.mapper.UserMapper;
-import com.sandcoder.testing_demo.repository.UserRepository;
+import com.sandcoder.rest_api.beans.domain.User;
+import com.sandcoder.rest_api.entity.UserEntity;
+import com.sandcoder.rest_api.mapper.UserMapper;
+import com.sandcoder.rest_api.repository.UserRepository;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

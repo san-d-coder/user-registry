@@ -1,4 +1,4 @@
-package com.sandcoder.testing_demo;
+package com.sandcoder.rest_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

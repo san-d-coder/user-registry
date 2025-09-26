@@ -1,9 +1,9 @@
-package com.sandcoder.testing_demo.controller;
+package com.sandcoder.rest_api.controller;
 
-import com.sandcoder.testing_demo.beans.domain.Error;
-import com.sandcoder.testing_demo.beans.domain.User;
-import com.sandcoder.testing_demo.service.UserService;
-import com.sandcoder.testing_demo.util.AppUtils;
+import com.sandcoder.rest_api.beans.domain.Error;
+import com.sandcoder.rest_api.beans.domain.User;
+import com.sandcoder.rest_api.service.UserService;
+import com.sandcoder.rest_api.util.AppUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

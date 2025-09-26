@@ -1,6 +1,6 @@
-package com.sandcoder.testing_demo.repository;
+package com.sandcoder.rest_api.repository;
 
-import com.sandcoder.testing_demo.entity.UserEntity;
+import com.sandcoder.rest_api.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

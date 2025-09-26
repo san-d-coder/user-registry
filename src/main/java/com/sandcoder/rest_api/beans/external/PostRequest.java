@@ -1,10 +1,11 @@
-package com.sandcoder.testing_demo.beans.external;
+package com.sandcoder.rest_api.beans.external;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data @NoArgsConstructor
-public class PostResponse {
+@Data
+@NoArgsConstructor
+public class PostRequest {
     private String userId;
     private String id;
     private String title;

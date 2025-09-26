@@ -1,4 +1,4 @@
-package com.sandcoder.testing_demo.entity;
+package com.sandcoder.rest_api.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

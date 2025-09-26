@@ -1,7 +1,7 @@
-package com.sandcoder.testing_demo.feign;
+package com.sandcoder.rest_api.feign;
 
-import com.sandcoder.testing_demo.beans.external.PostRequest;
-import com.sandcoder.testing_demo.beans.external.PostResponse;
+import com.sandcoder.rest_api.beans.external.PostRequest;
+import com.sandcoder.rest_api.beans.external.PostResponse;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

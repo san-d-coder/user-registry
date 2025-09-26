@@ -1,4 +1,4 @@
-package com.sandcoder.testing_demo.util;
+package com.sandcoder.rest_api.util;
 
 import brave.propagation.CurrentTraceContext;
 import brave.propagation.TraceContext;

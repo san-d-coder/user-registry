@@ -1,11 +1,10 @@
-package com.sandcoder.testing_demo;
+package com.sandcoder.rest_api;
 
-import com.sandcoder.testing_demo.feign.PostFeignClient;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
-@SpringBootApplication @EnableFeignClients(basePackages = "com.sandcoder.testing_demo.feign")
+@SpringBootApplication @EnableFeignClients(basePackages = "com.sandcoder.rest_api.feign")
 public class TestingDemoApplication {
 
 	public static void main(String[] args) {

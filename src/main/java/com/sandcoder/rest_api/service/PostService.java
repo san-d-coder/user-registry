@@ -1,8 +1,8 @@
-package com.sandcoder.testing_demo.service;
+package com.sandcoder.rest_api.service;
 
-import com.sandcoder.testing_demo.beans.external.PostRequest;
-import com.sandcoder.testing_demo.beans.external.PostResponse;
-import com.sandcoder.testing_demo.feign.PostFeignClient;
+import com.sandcoder.rest_api.beans.external.PostRequest;
+import com.sandcoder.rest_api.beans.external.PostResponse;
+import com.sandcoder.rest_api.feign.PostFeignClient;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
